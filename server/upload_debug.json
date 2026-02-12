@@ -1,0 +1,52 @@
+{
+  "keys": [
+    "Plant",
+    "Customer",
+    "Customer Name",
+    "Material",
+    "Material Description",
+    "Plan"
+  ],
+  "sample": [
+    {
+      "Plant": "12122",
+      "Customer": "21000604",
+      "Customer Name": "TIMKEN ENGINEERING & RESEARCH I PVT",
+      "Material": "FG00000904",
+      "Material Description": "ROLL-HS-M268701-000HS",
+      "Plan": 539
+    },
+    {
+      "Plant": "1212",
+      "Customer": "21000604",
+      "Customer Name": "TIMKEN ENGINEERING & RESEARCH I PVT",
+      "Material": "FG00000907",
+      "Material Description": "ROLL-HS-H242601-000HS",
+      "Plan": 1938
+    },
+    {
+      "Plant": "1212",
+      "Customer": "21000604",
+      "Customer Name": "TIMKEN ENGINEERING & RESEARCH I PVT",
+      "Material": "FG00001106",
+      "Material Description": "ROLL-HS-M255401-000HS",
+      "Plan": 879
+    },
+    {
+      "Plant": "1212",
+      "Customer": "21000604",
+      "Customer Name": "TIMKEN ENGINEERING & RESEARCH I PVT",
+      "Material": "RB00000305",
+      "Material Description": "SLUGS 20MC5",
+      "Plan": 6
+    },
+    {
+      "Plant": "1212",
+      "Customer": "21000604",
+      "Customer Name": "TIMKEN ENGINEERING & RESEARCH I PVT",
+      "Material": "RB00000306",
+      "Material Description": "SLUGS 8319",
+      "Plan": 261
+    }
+  ]
+}
